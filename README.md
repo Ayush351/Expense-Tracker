@@ -1,11 +1,15 @@
 # Expense Tracker App - MERN Stack
 Expense Tracker App is a feature-rich web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a comprehensive platform to manage their finances effectively.
 
+
+https://github.com/Ayush351/Expense-Tracker/assets/41275743/0b8a11c1-09aa-420f-b5c7-c71508822122
+
+
 ## Features
 
 ### Intuitive Dashboard
 - Dynamic Dashboard: Offers a visually appealing and user-friendly dashboard.
-- Recent History: Displays recent transactions for quick reference.
+- Transaction History: Displays recent transactions for quick reference.
 - Total Income and Expenses: Shows the total income, total expenses, and balance.
 - Graphical Data Representation: Visualizes financial data using graphs for easy analysis.
   
