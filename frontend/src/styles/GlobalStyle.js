@@ -13,13 +13,14 @@ export const GlobalStyle = createGlobalStyle`
         --primary-color2: 'color: rgba(34, 34, 96, .6)';
         --primary-color3: 'color: rgba(34, 34, 96, .4)';
         --color-green: #42AD00;
+        --color-red: #EE4B2B;
         --color-grey: #aaa;
         --color-accent: #F56692;
         --color-delete: #FF0000;
     }
 
     body{
-        font-family: 'Nunito', sans-serif;
+        font-family: 'Montserrat', sans-serif;
         font-size: clamp(1rem, 1.5vw, 1.2rem);
         overflow: hidden;
         color: rgba(34, 34, 96, .6);
